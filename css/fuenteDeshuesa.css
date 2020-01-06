@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Brushed-Traveler';
+    src: url('../fonts/Brushed-Traveler.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.brushed{
+    font-family: 'Brushed-Traveler'; 
+    color: #fdd898;
+}
+
+
